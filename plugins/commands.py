@@ -47,7 +47,7 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('💥 ערוץ סרטים לצפייה ישירה 💥', url='https://t.me/+5aoApavIMVo1YzQ1'),
+            InlineKeyboardButton('💥 ערוץ סרטים לצפייה ישירה 💥', url='https://t.me/il_333'),
 
             InlineKeyboardButton('🔎 חיפוש סרטים בקבוצה 🔍', url='https://t.me/il_334')
 
